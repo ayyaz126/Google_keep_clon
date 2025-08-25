@@ -10,7 +10,7 @@ import { DataContext } from "../../context/DataProvider";
 
 const StyledCard = styled(Card)`
   border: 1px solid #e0e0e0;
-  border-radius: 9px;
+  border-radius: 8px;
   width: 240px;
   margin: 8px;
   box-shadow: none;
