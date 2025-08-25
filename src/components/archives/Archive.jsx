@@ -9,8 +9,8 @@ import { DataContext } from '../../context/DataProvider';
 const StyledCard = styled(Card)`
     border: 1px solid #e0e0e0;
     border-radius: 8px;
-    width: 240px;
-    margin: 8px;
+    width: 241px;
+    margin: 9px;
     box-shadow: none;
 `
 
